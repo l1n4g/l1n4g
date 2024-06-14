@@ -1,4 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
+
+Meu nome é Carolina Oliveira 
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçºao e compartilhamento dos meus projetos desenvolvidos
+  
+## Você pode entrar em contato comigo 📫
+
+00001103052391sp@al.educacao.sp.gov.br
 
 <!--
 **l1n4g/l1n4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
